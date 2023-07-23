@@ -1,4 +1,4 @@
-**<h1>Bill Maker Application</h1>**(https://dhruvmahalwar.github.io/Bill-Maker/)
+**<h1>Bill Maker Application(https://dhruvmahalwar.github.io/Bill-Maker/)</h1>**
 This is a responsive web application for creating bills in a supermarket setting. The application is built using JavaScript, HTML, CSS, and Bootstrap. Please note that this is a front-end only application, meaning it doesn't have a backend to save data permanently. Any products added to the application will not be saved once you close the application.
 
 **<h2>Features</h2>**
